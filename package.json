@@ -1,0 +1,25 @@
+{
+  "name": "minervajs-auditlogs",
+  "version": "1.0.0",
+  "description": "Módulo de gestión de mensajes de auditoria, depuración, informativos, avisos y error",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Audit Logs",
+    "tracking",
+    "log files",
+    "MinervaJS"
+	],
+  "author": "alexander.enrique.escobar@gmail.com",
+  "license": "BSD-2-Clause",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Alexander-Escobar/MinervaJS.Audit-Logs.git"
+  },
+  "bug": {
+    "url": "https://github.com/Alexander-Escobar/MinervaJS.Audit-Logs.git/issues"
+  },
+  "homepage": "https://github.com/Alexander-Escobar/MinervaJS.Audit-Logs.git#readme"
+}
